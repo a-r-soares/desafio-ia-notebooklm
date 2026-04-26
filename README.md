@@ -10,7 +10,7 @@ Explorar o uso da Inteligência Artificial como uma verdadeira ferramenta de apr
 
 ## 🎯 Constexto e Objetivo
 
-Estou concluindo meu treinamento no módulo de introdução à Engenharia de Prompt na empresa DIO e com patrocínio da empresa Accenture. Gostaria de me aprofundar para obter uma notável melhoria nesta disciplina.
+Estou concluindo meu treinamento no módulo de introdução à Engenharia de Prompt na empresa DIO e com patrocínio da empresa Accenture. Gostaria de me aprofundar para obter uma forte melhoria nesta disciplina.
 Para isso, disponibilizei 4 fontes de texto disponíveis na web ao NotebookLM, para explorar esta ferramenta de aprendizagem.
 
 <br/>
