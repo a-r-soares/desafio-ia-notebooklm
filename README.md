@@ -42,8 +42,10 @@ Ao final, favor gerar:
 - Um conjunto de prompts reutilizáveis que possam apoiar sobre futuras revisões sobre este tema
 
 ⚠️ **Cicatriz**
-No grossário, ao me deparar com a definição sobre RAG, voltei ao NotebookLM e informei que eu havia ficado em dúvida, principalmente a parte que continha o texto "base de dados externa". O NotebookLM fez uma explicação detalhada sobre RAG. Então, solicitei que refizesse a explicação para que eu fizesse a substituição no Glossário, pois desta forma, para mim havia ficado mais clara a definição.
-No Glossário, apresento as duas definições. A primeira apresentada e a segunda que foi a revisada.
+
+No grossário, ao me deparar com a definição sobre RAG, voltei ao NotebookLM e informei que eu havia ficado em dúvida, principalmente a parte que continha o texto "base de dados externa". O NotebookLM fez uma explicação detalhada sobre RAG. Então, solicitei que refizesse a definição para que eu atualizasse o Glossário. Para mim, havia ficado mais clara a mpva definição.
+
+No Glossário, apresento as duas definições.
 
 **Resultado Obtido**
 
@@ -125,7 +127,9 @@ ________________________________________
   
   * **Prompting Maiêutico:** Método onde se pede à IA uma explicação e, em seguida, explicações para as partes dessa explicação para verificar consistência.
   
-  * **RAG (Retrieval-Augmented Generation):** Técnica que recupera informações de uma base de dados externa para que a IA gere respostas fundamentadas em fatos reais.
+ * ~~**RAG (Retrieval-Augmented Generation):** Técnica que recupera informações de uma base de dados externa para que a IA gere respostas fundamentadas em fatos reais.~~
+
+  * **RAG (Retrieval-Augmented Generation):** Estratégia que conecta a IA a fontes de conhecimento específicas — como seus próprios documentos, manuais técnicos ou bases de dados internas — permitindo que o sistema recupere informações precisas e atualizadas para fundamentar as respostas em fatos reais.
   
   * **Tokens:** Unidades básicas de texto processadas pela IA (podem ser palavras inteiras ou sílabas).
   
