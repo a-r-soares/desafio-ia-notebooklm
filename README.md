@@ -41,6 +41,10 @@ Ao final, favor gerar:
 - Um Glossário com os princípais conceitos
 - Um conjunto de prompts reutilizáveis que possam apoiar sobre futuras revisões sobre este tema
 
+⚠️ **Cicatriz**
+No grossário, ao me deparar com a definição sobre RAG, voltei ao NotebookLM e informei que eu havia ficado em dúvida, principalmente a parte que continha o texto "base de dados externa". O NotebookLM fez uma explicação detalhada sobre RAG. Então, solicitei que refizesse a explicação para que eu fizesse a substituição no Glossário, pois desta forma, para mim havia ficado mais clara a definição.
+No Glossário, apresento as duas definições. A primeira apresentada e a segunda que foi a revisada.
+
 **Resultado Obtido**
 
 Parabéns pela conclusão da introdução ao seu treinamento. Com base nos materiais fornecidos pela AWS, Microsoft, IBM e no Guia de Engenharia de Prompt, preparei um currículo de nível intermediário focado na otimização de resultados e na criação de sistemas complexos de IA.
