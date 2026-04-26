@@ -83,9 +83,9 @@ ________________________________________
 ### **Resumo Estruturado do Material**
 1.	**Fundamentos do Prompt:** Um prompt é o texto de entrada em linguagem natural que orienta um modelo (LLM) a executar uma tarefa. Ele serve para preencher a lacuna entre o usuário final e a IA.
 2.	**Componentes Essenciais:** Um prompt eficaz geralmente contém instruções claras, conteúdo principal (dados a serem processados), exemplos (few-shot) e indicações (o "pontapé inicial" da resposta).
-3.	**Técnicas de Precisão:** 
-     **Sintaxe Clara:** Uso de separadores (como --- ou ###), Markdown ou XML para diferenciar seções do prompt.
-     **Repetição de Instruções:** Colocar as ordens mais importantes no início e repeti-las no final para combater o "desvio de relevância".
+3.	**Técnicas de Precisão:**
+   3.1 **Sintaxe Clara:** Uso de separadores (como --- ou ###), Markdown ou XML para diferenciar seções do prompt.
+  	3.2 **Repetição de Instruções:** Colocar as ordens mais importantes no início e repeti-las no final para combater o "desvio de relevância".
 4.	**Agentes de IA:** São sistemas que combinam modelos de linguagem com memória, ferramentas externas e bases de conhecimento (RAG) para executar tarefas complexas de forma autônoma.
 5.	**Boas Práticas:** Ser específico, usar analogias, limitar o espaço operacional da IA e dar uma "saída" ao modelo (ex: "se não encontrar a resposta, diga 'não encontrado'").
 
