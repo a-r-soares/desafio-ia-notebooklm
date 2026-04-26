@@ -33,7 +33,7 @@ Para isso, disponibilizei 4 fontes de texto disponíveis na web ao NotebookLM, p
 
 **Prompt Apresentado ao NotebookLM**
 
-Estou concluindo meu treinamento no módulo de introdução à Engenharia de Prompt na empresa DIO e com patrocínio da empresa Accenture. Gostaria de me aprofundar para obter uma notável melhoria nesta disciplina. 
+Estou concluindo meu treinamento no módulo de introdução à Engenharia de Prompt na empresa DIO e com patrocínio da empresa Accenture. Gostaria de me aprofundar para obter uma forte melhoria nesta disciplina. 
 Para isso, disponibilizei 4 fontes de dados e espero que com seu conhecimento profundo a respeito do tema, compile, extraia e organize o material.
 Com o conhecimento de um professor especialista no assunto, prepare um curso deste material para que eu possa estudar e conseguir o nível intermediário em Engenharia de Prompts. 
 Ao final, favor gerar:
