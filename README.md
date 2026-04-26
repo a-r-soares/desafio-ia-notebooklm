@@ -88,9 +88,9 @@ ________________________________________
 
 3.	**Técnicas de Precisão:**
 
-   3.1 **Sintaxe Clara:** Uso de separadores (como --- ou ###), Markdown ou XML para diferenciar seções do prompt.
+     3.1 **Sintaxe Clara:** Uso de separadores (como --- ou ###), Markdown ou XML para diferenciar seções do prompt.
 
-   3.2 **Repetição de Instruções:** Colocar as ordens mais importantes no início e repeti-las no final para combater o "desvio de relevância".
+     3.2 **Repetição de Instruções:** Colocar as ordens mais importantes no início e repeti-las no final para combater o "desvio de relevância".
 
 4.	**Agentes de IA:** São sistemas que combinam modelos de linguagem com memória, ferramentas externas e bases de conhecimento (RAG) para executar tarefas complexas de forma autônoma.
 
