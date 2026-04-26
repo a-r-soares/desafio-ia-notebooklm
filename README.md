@@ -71,11 +71,15 @@ Aprenda a manipular os parâmetros e a sintaxe para obter respostas previsíveis
   * **Parâmetros de Temperatura e Top_p:** Ajustar a aleatoriedade e criatividade do modelo (valores baixos para precisão, altos para criatividade).
   * **Contexto de Fundamentação (Grounding):** Fornecer dados externos (como documentos ou APIs) para que a IA baseie suas respostas em fatos, evitando invenções.
 
-Módulo 4: Refinamento Iterativo e Segurança
+#### ^^Módulo 4: Refinamento Iterativo e Segurança**
+
 A engenharia de prompt é um processo contínuo de tentativa e erro.
-•	Reflexão e Autoajuste: Pedir à IA para criticar e melhorar a própria solução.
-•	Mitigação de Alucinações: Técnicas para garantir que o modelo admita quando não sabe uma resposta.
+
+  * **Reflexão e Autoajuste:** Pedir à IA para criticar e melhorar a própria solução.
+  * **Mitigação de Alucinações:** Técnicas para garantir que o modelo admita quando não sabe uma resposta.
+
 ________________________________________
+
 Resumo Estruturado do Material
 1.	Fundamentos do Prompt: Um prompt é o texto de entrada em linguagem natural que orienta um modelo (LLM) a executar uma tarefa. Ele serve para preencher a lacuna entre o usuário final e a IA.
 2.	Componentes Essenciais: Um prompt eficaz geralmente contém instruções claras, conteúdo principal (dados a serem processados), exemplos (few-shot) e indicações (o "pontapé inicial" da resposta).
