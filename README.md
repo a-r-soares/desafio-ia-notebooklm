@@ -52,7 +52,9 @@ ________________________________________
 #### **Módulo 1: Frameworks Estruturais Avançados**
 
 Neste módulo, você aprenderá a deixar de lado prompts simples para adotar estruturas que garantem precisão técnica e engajamento.
+
   *	PASSEF (Papel, Ação, Contexto, Exemplo, Formato): Ideal para automação de tarefas técnicas e criação de agentes de IA.
+
   *	COSTAR (Contexto, Objetivo, Estilo, Tom, Audiência, Resposta): Focado em comunicação estratégica e adaptação de conteúdo para públicos específicos.
 
 #### **Módulo 2: Técnicas de Raciocínio e Decomposição de Problemas**
@@ -60,7 +62,9 @@ Neste módulo, você aprenderá a deixar de lado prompts simples para adotar est
 Para lidar com problemas complexos que a IA não resolve de "primeira", utilizamos métodos que mimetizam o pensamento humano.
 
   * **Cadeia de Pensamento (CoT):** Instruir o modelo a resolver problemas passo a passo.
+
   * **Árvore de Pensamentos (ToT):** O modelo gera várias possibilidades e explora ramos de raciocínio antes de decidir a melhor saída.
+
   * **Do Menor para o Maior (Least-to-Most):** Dividir um problema em subproblemas sequenciais onde a solução de um ajuda no próximo.
  
 #### **Módulo 3: Controle de Saída e Otimização de Contexto**
@@ -68,7 +72,9 @@ Para lidar com problemas complexos que a IA não resolve de "primeira", utilizam
 Aprenda a manipular os parâmetros e a sintaxe para obter respostas previsíveis e úteis para sistemas.
 
   * **Aprendizado com Poucas Tentativas (Few-Shot):** Fornecer exemplos reais de entrada e saída para "preparar" o modelo.
+
   * **Parâmetros de Temperatura e Top_p:** Ajustar a aleatoriedade e criatividade do modelo (valores baixos para precisão, altos para criatividade).
+
   * **Contexto de Fundamentação (Grounding):** Fornecer dados externos (como documentos ou APIs) para que a IA baseie suas respostas em fatos, evitando invenções.
 
 #### **Módulo 4: Refinamento Iterativo e Segurança**
@@ -76,6 +82,7 @@ Aprenda a manipular os parâmetros e a sintaxe para obter respostas previsíveis
 A engenharia de prompt é um processo contínuo de tentativa e erro.
 
   * **Reflexão e Autoajuste:** Pedir à IA para criticar e melhorar a própria solução.
+
   * **Mitigação de Alucinações:** Técnicas para garantir que o modelo admita quando não sabe uma resposta.
 
 ________________________________________
@@ -99,14 +106,22 @@ ________________________________________
 ________________________________________
 
 ### **Glossário de Conceitos Principais**
-•	Agentes de IA: Sistemas que usam LLMs integrados a APIs e memórias para agir no mundo real.
-•	Alucinação: Quando a IA gera informações imprecisas ou totalmente fabricadas de forma convincente.
-•	Few-shot Learning: Técnica de fornecer de 1 a 3 exemplos de entrada/saída no prompt para guiar o modelo.
-•	LLM (Large Language Model): Modelos de linguagem de grande escala treinados em vastos volumes de dados para prever a próxima palavra mais provável.
-•	Prompting Maiêutico: Método onde se pede à IA uma explicação e, em seguida, explicações para as partes dessa explicação para verificar consistência.
-•	RAG (Retrieval-Augmented Generation): Técnica que recupera informações de uma base de dados externa para que a IA gere respostas fundamentadas em fatos reais.
-•	Tokens: Unidades básicas de texto processadas pela IA (podem ser palavras inteiras ou sílabas).
-•	Zero-shot: Pedir uma tarefa sem fornecer nenhum exemplo prévio, confiando apenas no conhecimento base do modelo.
+
+  * **Agentes de IA:** Sistemas que usam LLMs integrados a APIs e memórias para agir no mundo real.
+    
+  * **Alucinação:** Quando a IA gera informações imprecisas ou totalmente fabricadas de forma convincente.
+  
+  * **Few-shot Learning:** Técnica de fornecer de 1 a 3 exemplos de entrada/saída no prompt para guiar o modelo.
+  
+  * **LLM (Large Language Model):** Modelos de linguagem de grande escala treinados em vastos volumes de dados para prever a próxima palavra mais provável.
+  
+  * **Prompting Maiêutico:** Método onde se pede à IA uma explicação e, em seguida, explicações para as partes dessa explicação para verificar consistência.
+  
+  * **RAG (Retrieval-Augmented Generation):** Técnica que recupera informações de uma base de dados externa para que a IA gere respostas fundamentadas em fatos reais.
+  
+  * **Tokens:** Unidades básicas de texto processadas pela IA (podem ser palavras inteiras ou sílabas).
+  
+  * **Zero-shot:** Pedir uma tarefa sem fornecer nenhum exemplo prévio, confiando apenas no conhecimento base do modelo.
 
 ________________________________________
 
