@@ -45,7 +45,9 @@ Ao final, favor gerar:
 
 Parabéns pela conclusão da introdução ao seu treinamento. Com base nos materiais fornecidos pela AWS, Microsoft, IBM e no Guia de Engenharia de Prompt, preparei um currículo de nível intermediário focado na otimização de resultados e na criação de sistemas complexos de IA.
 
-**Curso: Engenharia de Prompt de Nível Intermediário**
+________________________________________
+
+### **Curso: Engenharia de Prompt de Nível Intermediário**
 
 **Módulo 1: Frameworks Estruturais Avançados**
 
