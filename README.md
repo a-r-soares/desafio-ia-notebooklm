@@ -17,13 +17,13 @@ Para isso, disponibilizei 4 fontes de texto disponíveis na web ao NotebookLM, p
 
 ## 📚 Curadoria de Fontes
 
-* **Fontes de Texto (WEB)**
- * [Ramos da Informática - Guia de Engenharia de Prompt: O Papel da Engenharia de Prompt](https://ramosdainformatica.com.br/engenharia-prompt-guia/)
- * [IBM - Técnicas de Engenharia de Prompts](https://www.ibm.com/br-pt/think/topics/prompt-engineering-techniques#7281536)
- * [Microsoft - Técnicas de engenharia de prompt](https://learn.microsoft.com/pt-br/azure/foundry/openai/concepts/prompt-engineering)
- * [AWS - O que é engenharia de prompt?](https://aws.amazon.com/pt/what-is/prompt-engineering/)
+**Fontes de Texto (WEB)**
+  * [Ramos da Informática - Guia de Engenharia de Prompt: O Papel da Engenharia de Prompt](https://ramosdainformatica.com.br/engenharia-prompt-guia/)
+  * [IBM - Técnicas de Engenharia de Prompts](https://www.ibm.com/br-pt/think/topics/prompt-engineering-techniques#7281536)
+  * [Microsoft - Técnicas de engenharia de prompt](https://learn.microsoft.com/pt-br/azure/foundry/openai/concepts/prompt-engineering)
+  * [AWS - O que é engenharia de prompt?](https://aws.amazon.com/pt/what-is/prompt-engineering/)
 
-* **Resumo apresentado após carga das fontes adicionadas**
+**Resumo apresentado após carga das fontes adicionadas**
 * As fontes apresentadas constituem um guia abrangente sobre a Engenharia de Prompt, explorando sua importância estratégica para otimizar a interação com modelos de linguagem (LLMs). O conteúdo detalha frameworks estruturais, como PASSEF e COSTAR, e descreve técnicas avançadas de raciocínio, incluindo Cadeia de Pensamento (CoT) e Árvore de Pensamentos. Além de oferecer definições conceituais, os textos fornecem orientações práticas para desenvolvedores e gestores sobre como evitar alucinações da IA e aumentar a precisão das respostas. As informações são complementadas por visões técnicas de grandes empresas como AWS, Microsoft e IBM, que discutem a integração de ferramentas externas e a automação de processos. Em suma, o material serve como um manual para transformar comandos em linguagem natural em resultados eficientes e personalizados no cenário da inteligência artificial generativa.
 
   
