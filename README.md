@@ -47,6 +47,8 @@ Parabéns pela conclusão da introdução ao seu treinamento. Com base nos mater
 
 ________________________________________
 
+## **Miniguia de Estudo (Entrega Final)**
+
 ### **Curso: Engenharia de Prompt de Nível Intermediário**
 
 #### **Módulo 1: Frameworks Estruturais Avançados**
