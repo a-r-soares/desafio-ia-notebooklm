@@ -157,3 +157,6 @@ Estes prompts foram desenhados para que você possa usá-los com qualquer ferram
 
 "Explique o conceito de 'Temperatura' em LLMs. Primeiro, dê uma resposta com 'Temperatura 0.1' (focada e técnica). Depois, dê uma resposta com 'Temperatura 0.9' (criativa e com analogias). Conclua explicando qual delas é melhor para gerar um código Python."
 
+________________________________________
+Alcino Roberto Soares - Abril de 2026
+________________________________________
