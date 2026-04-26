@@ -129,12 +129,19 @@ ________________________________________
 
 Estes prompts foram desenhados para que você possa usá-los com qualquer ferramenta de IA para revisar os temas deste material:
 
-1. Prompt para Prática de Framework PASSEF:
+1. **Prompt para Prática de Framework PASSEF:**
+
 "Você é um especialista em pedagogia de IA. Ação: Resuma os principais conceitos do framework PASSEF. Contexto: Estou estudando para o nível intermediário em Engenharia de Prompt. Exemplo: Explique o 'P' de Papel como a definição da persona do agente. Formato: Crie um mapa mental em formato de lista hierárquica."
-2. Prompt para Revisão de Técnicas de Raciocínio (CoT):
+
+2. **Prompt para Revisão de Técnicas de Raciocínio (CoT):**
+
 "Contexto: Engenharia de Prompt Avançada. Objetivo: Explicar a diferença entre Cadeia de Pensamento (CoT) e Árvore de Pensamentos (ToT). Estilo: Didático e comparativo. Tom: Profissional. Audiência: Alunos da DIO/Accenture. Resposta: Uma tabela comparativa com definição, caso de uso e um exemplo de comando para cada técnica."
-3. Prompt para Identificação de Componentes (Metaprompt):
+
+3. **Prompt para Identificação de Componentes (Metaprompt):**
+
 "Atue como um Engenheiro de Prompt Automático. Analise o seguinte prompt [INSERIR SEU PROMPT AQUI] e identifique onde estão as Instruções, o Conteúdo Principal e as Indicações de Saída. Sugira uma melhoria usando a técnica de Sintaxe Clara (Markdown)."
-4. Prompt para Teste de Parâmetros (Simulação):
+
+4. **Prompt para Teste de Parâmetros (Simulação):**
+
 "Explique o conceito de 'Temperatura' em LLMs. Primeiro, dê uma resposta com 'Temperatura 0.1' (focada e técnica). Depois, dê uma resposta com 'Temperatura 0.9' (criativa e com analogias). Conclua explicando qual delas é melhor para gerar um código Python."
 
