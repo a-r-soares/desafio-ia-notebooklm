@@ -49,24 +49,28 @@ ________________________________________
 
 ### **Curso: Engenharia de Prompt de Nível Intermediário**
 
-**Módulo 1: Frameworks Estruturais Avançados**
+#### **Módulo 1: Frameworks Estruturais Avançados**
 
 Neste módulo, você aprenderá a deixar de lado prompts simples para adotar estruturas que garantem precisão técnica e engajamento.
   *	PASSEF (Papel, Ação, Contexto, Exemplo, Formato): Ideal para automação de tarefas técnicas e criação de agentes de IA.
   *	COSTAR (Contexto, Objetivo, Estilo, Tom, Audiência, Resposta): Focado em comunicação estratégica e adaptação de conteúdo para públicos específicos.
 
-**Módulo 2: Técnicas de Raciocínio e Decomposição de Problemas**
+#### **Módulo 2: Técnicas de Raciocínio e Decomposição de Problemas**
 
 Para lidar com problemas complexos que a IA não resolve de "primeira", utilizamos métodos que mimetizam o pensamento humano.
 
-  •	Cadeia de Pensamento (CoT): Instruir o modelo a resolver problemas passo a passo.
-  •	Árvore de Pensamentos (ToT): O modelo gera várias possibilidades e explora ramos de raciocínio antes de decidir a melhor saída.
-  •	Do Menor para o Maior (Least-to-Most): Dividir um problema em subproblemas sequenciais onde a solução de um ajuda no próximo.
-Módulo 3: Controle de Saída e Otimização de Contexto
+  * **Cadeia de Pensamento (CoT):** Instruir o modelo a resolver problemas passo a passo.
+  * **Árvore de Pensamentos (ToT):** O modelo gera várias possibilidades e explora ramos de raciocínio antes de decidir a melhor saída.
+  * **Do Menor para o Maior (Least-to-Most):** Dividir um problema em subproblemas sequenciais onde a solução de um ajuda no próximo.
+ 
+#### **Módulo 3: Controle de Saída e Otimização de Contexto**
+
 Aprenda a manipular os parâmetros e a sintaxe para obter respostas previsíveis e úteis para sistemas.
-•	Aprendizado com Poucas Tentativas (Few-Shot): Fornecer exemplos reais de entrada e saída para "preparar" o modelo.
-•	Parâmetros de Temperatura e Top_p: Ajustar a aleatoriedade e criatividade do modelo (valores baixos para precisão, altos para criatividade).
-•	Contexto de Fundamentação (Grounding): Fornecer dados externos (como documentos ou APIs) para que a IA baseie suas respostas em fatos, evitando invenções.
+
+  * **Aprendizado com Poucas Tentativas (Few-Shot):** Fornecer exemplos reais de entrada e saída para "preparar" o modelo.
+  * **Parâmetros de Temperatura e Top_p:** Ajustar a aleatoriedade e criatividade do modelo (valores baixos para precisão, altos para criatividade).
+  * **Contexto de Fundamentação (Grounding):** Fornecer dados externos (como documentos ou APIs) para que a IA baseie suas respostas em fatos, evitando invenções.
+
 Módulo 4: Refinamento Iterativo e Segurança
 A engenharia de prompt é um processo contínuo de tentativa e erro.
 •	Reflexão e Autoajuste: Pedir à IA para criticar e melhorar a própria solução.
