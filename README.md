@@ -71,7 +71,7 @@ Aprenda a manipular os parâmetros e a sintaxe para obter respostas previsíveis
   * **Parâmetros de Temperatura e Top_p:** Ajustar a aleatoriedade e criatividade do modelo (valores baixos para precisão, altos para criatividade).
   * **Contexto de Fundamentação (Grounding):** Fornecer dados externos (como documentos ou APIs) para que a IA baseie suas respostas em fatos, evitando invenções.
 
-#### ^^Módulo 4: Refinamento Iterativo e Segurança**
+#### **Módulo 4: Refinamento Iterativo e Segurança**
 
 A engenharia de prompt é um processo contínuo de tentativa e erro.
 
@@ -80,7 +80,7 @@ A engenharia de prompt é um processo contínuo de tentativa e erro.
 
 ________________________________________
 
-Resumo Estruturado do Material
+### **Resumo Estruturado do Material**
 1.	Fundamentos do Prompt: Um prompt é o texto de entrada em linguagem natural que orienta um modelo (LLM) a executar uma tarefa. Ele serve para preencher a lacuna entre o usuário final e a IA.
 2.	Componentes Essenciais: Um prompt eficaz geralmente contém instruções claras, conteúdo principal (dados a serem processados), exemplos (few-shot) e indicações (o "pontapé inicial" da resposta).
 3.	Técnicas de Precisão: 
@@ -88,8 +88,10 @@ o	Sintaxe Clara: Uso de separadores (como --- ou ###), Markdown ou XML para dife
 o	Repetição de Instruções: Colocar as ordens mais importantes no início e repeti-las no final para combater o "desvio de relevância".
 4.	Agentes de IA: São sistemas que combinam modelos de linguagem com memória, ferramentas externas e bases de conhecimento (RAG) para executar tarefas complexas de forma autônoma.
 5.	Boas Práticas: Ser específico, usar analogias, limitar o espaço operacional da IA e dar uma "saída" ao modelo (ex: "se não encontrar a resposta, diga 'não encontrado'").
+
 ________________________________________
-Glossário de Conceitos Principais
+
+### **Glossário de Conceitos Principais**
 •	Agentes de IA: Sistemas que usam LLMs integrados a APIs e memórias para agir no mundo real.
 •	Alucinação: Quando a IA gera informações imprecisas ou totalmente fabricadas de forma convincente.
 •	Few-shot Learning: Técnica de fornecer de 1 a 3 exemplos de entrada/saída no prompt para guiar o modelo.
@@ -98,9 +100,13 @@ Glossário de Conceitos Principais
 •	RAG (Retrieval-Augmented Generation): Técnica que recupera informações de uma base de dados externa para que a IA gere respostas fundamentadas em fatos reais.
 •	Tokens: Unidades básicas de texto processadas pela IA (podem ser palavras inteiras ou sílabas).
 •	Zero-shot: Pedir uma tarefa sem fornecer nenhum exemplo prévio, confiando apenas no conhecimento base do modelo.
+
 ________________________________________
-Conjunto de Prompts Reutilizáveis para Revisão
+
+### **Conjunto de Prompts Reutilizáveis para Revisão**
+
 Estes prompts foram desenhados para que você possa usá-los com qualquer ferramenta de IA para revisar os temas deste material:
+
 1. Prompt para Prática de Framework PASSEF:
 "Você é um especialista em pedagogia de IA. Ação: Resuma os principais conceitos do framework PASSEF. Contexto: Estou estudando para o nível intermediário em Engenharia de Prompt. Exemplo: Explique o 'P' de Papel como a definição da persona do agente. Formato: Crie um mapa mental em formato de lista hierárquica."
 2. Prompt para Revisão de Técnicas de Raciocínio (CoT):
